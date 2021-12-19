@@ -1,0 +1,1 @@
+export declare const NEST_SHRIMPY_OPTIONS = "NEST_SHRIMPY_OPTIONS";
